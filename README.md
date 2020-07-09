@@ -1,3 +1,3 @@
 # Rufiothefox-necrocorp_informatica
 Necroccorp_informatica
-:bulb:necrocorp_informatica
+:bulb:Necrocorp_informatica
